@@ -6,6 +6,6 @@
 -  phone: ARG +54 2257 610953.
 // https://www.linkedin.com/in/pablo-r-moya/
 
-<a href="https://app.daily.dev/Test576m"><img src="https://api.daily.dev/devcards/dcf44ee70b5148fdb098c2defb686133.png?r=319" width="400" alt="Pablo Moya's Dev Card"/></a>
+
 <!---
 --->
