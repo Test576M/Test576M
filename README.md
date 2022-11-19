@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moya Pablo Rodrigo, 22 years old, from Buenos Aires, Argentina.
-- 👀 I’m interested in front and backend, anime, manga, light novels, rpg games. 
-- 🌱 I’m currently learning HTML, CSS, SASS, JAVASCRIPT, MYSQL JAVA. Attending to "certified tech developer" career by Digital House in collaboration with MercadoLibre & Globant.
+- 👀 I’m interested in frontend development, anime, manga, light novels, rpg games. 
+- 🌱 I'm Attending to "certified tech developer" career by Digital House in collaboration with MercadoLibre & Globant.
 - 💞️ I’m looking to collaborate on FRONTEND proyects. 
 - 📫 How to reach me: email: pablo576m@hotmail.com // 
 -  phone: ARG +54 2257 610953.
